@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharal-coelho
+- 👋 Hi, I’m sharal coelho
 - I’m interested in Coding
 - I’m a Research Scholar
 
