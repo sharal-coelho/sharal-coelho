@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharal-coelho
-- 👀 I’m interested in Coding
-- 🌱 I’m a Research Scholar
+- I’m interested in Coding
+- I’m a Research Scholar
 
 
 
