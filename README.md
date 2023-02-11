@@ -1,5 +1,6 @@
 - 👋 Hi, I’m sharal coelho
 - I’m interested in Coding
+- Working on voice pathology identification using ML and DL
 - I’m a Research Scholar
 
 
