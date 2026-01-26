@@ -1,6 +1,7 @@
 - 👋 Hi, I’m sharal coelho
-- Working on voice pathology identification using ML and DL
-- I’m a Research Scholar
+-Dynamic Software Engineer with substantial experience in AI/ML, focusing on Python and advanced learning techniques.
+-Currently pursuing a PhD while honing skills in text processing and signal processing with a track record of developing innovative models. 
+
 
 
 
